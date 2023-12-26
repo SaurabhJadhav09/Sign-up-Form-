@@ -52,10 +52,8 @@ This project is a simple web application that provides a user authentication sys
 The database should have at least two tables:
 
 1. **Users Table:**
-   - Columns: `id` (Primary Key), `username`, `email`, `password_hash`, `created_at`, `updated_at`
+   - Columns: `id` (Primary Key), `name`, `email`, `password`
 
-2. **Sessions Table:**
-   - Columns: `id` (Primary Key), `user_id` (Foreign Key referencing Users table), `session_token`, `created_at`, `updated_at`
 
 
 ## Contribution Guidelines
