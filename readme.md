@@ -32,7 +32,7 @@ This project is a simple web application that provides a user authentication sys
 
 2. **Navigate to the Project Directory:**
    ```
-   cd Sign-up-Form-.git
+   cd Sign-up-Form-
 
 3. **Configure Database:**
    - Create a database and necessary tables based on the provided schema.
